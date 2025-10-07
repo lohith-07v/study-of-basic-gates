@@ -75,5 +75,10 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 **RTL**
 
 **Result:**
+state diagram
+<img width="1920" height="1080" alt="LOHITH E2 RTL" src="https://github.com/user-attachments/assets/d4edc2b0-410e-433d-8110-bb456bbf0938" />
+
+clock pulse
+<img width="1920" height="1080" alt="LOHITH E1 CP" src="https://github.com/user-attachments/assets/66c7d3f8-950c-47d4-b1bc-92439bf2ceaa" />
 
 
